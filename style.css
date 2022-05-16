@@ -1,0 +1,79 @@
+/* global setting */
+
+h3 {
+  margin-bottom: 50px;
+}
+
+body {
+  background-color: #e0ebe8;
+  font-family: "Ubuntu", sans-serif;
+}
+
+#name_header {
+  font-family: "Nothing You Could Do", cursive;
+  font-size: 5rem;
+  color: #4ab19a;
+  margin-top: 20px;
+}
+
+#my_foto {
+  float: left;
+  width: 19vw;
+  border-radius: 60%;
+  margin: 10px 60px 10px 60px;
+}
+
+#da_cute {
+  float: right;
+  width: 19vw;
+  margin: 10px 170px 10px 60px;
+}
+
+#fe_cute {
+  float: left;
+  width: 19vw;
+  margin: 10px 60px 10px 170px;
+  border-radius: 60%;
+}
+
+nav {
+  text-align: right;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+nav a {
+  text-decoration: none;
+  color: #4ab19a;
+  margin: 10px;
+}
+
+#intro {
+  width: 85vw;
+  line-height: 1.5;
+}
+
+#da_text {
+  text-align: right;
+}
+
+#fe_text {
+  margin-top: 60px;
+  text-align: left;
+}
+
+#div2 {
+  clear: both;
+  text-align: center;
+}
+
+footer {
+  margin-top: 60px;
+  margin-right: 170px;
+  text-align: right;
+}
+.flex1 {
+  display: flex;
+  flex-direction: row;
+  width: 80vw;
+  justify-content: space-around;
+}
